@@ -52,7 +52,7 @@ Http://LocalHost:35000/prueba.js"
 
 Se realizó la prueba donde se configuraron 200 solicitudes
 
-![configuración](https://github.com/sebasporras14/ARSWconcurrent/blob/master/imagenesconfiguracion.png)
+![configuración](https://github.com/sebasporras14/ARSWconcurrent/blob/master/imagenes/configuracion.png)
 
 donde se observa que las solicitudes fueron exitosas:
 
